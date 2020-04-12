@@ -1,5 +1,6 @@
 package Ecomm_app;
 
+import Ecomm_app.pageObject.LoginPage;
 import cucumber.api.PendingException;
 import cucumber.api.Scenario;
 import cucumber.api.java.After;
@@ -41,7 +42,7 @@ public class MyStepdefs extends TestRunner {
     public void userLoggedIntoThePortal() {
         browser.get("https://www.saucedemo.com/");
         //enter username
-        WebElement username = browser.findElement(By.id("user-name"));
+       /* WebElement username = browser.findElement(By.id("user-name"));
         username.sendKeys("standard_user");
         //enter password
         WebElement password = browser.findElement(By.id("password"));
@@ -49,6 +50,9 @@ public class MyStepdefs extends TestRunner {
         //Click on Login
         WebElement submitbtn = browser.findElement(By.className("btn_action"));
         submitbtn.click();
+        */
+        LoginPage loginPageObject = new LoginPage();
+        loginPageObject.Login("standard_user","secret_sauce");
     }
 
     @When("^user add in item \"([^\"]*)\" into the basket$")

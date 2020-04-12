@@ -13,7 +13,7 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 2155134600,
+  "duration": 2162815700,
   "status": "passed"
 });
 formatter.scenario({
@@ -58,7 +58,7 @@ formatter.match({
   "location": "MyStepdefs.userLoggedIntoThePortal()"
 });
 formatter.result({
-  "duration": 5307414800,
+  "duration": 2619309500,
   "status": "passed"
 });
 formatter.match({
@@ -71,43 +71,43 @@ formatter.match({
   "location": "MyStepdefs.theAddInItemIntoTheBasket(String)"
 });
 formatter.result({
-  "duration": 3216755600,
+  "duration": 3216849600,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.goToCart()"
 });
 formatter.result({
-  "duration": 3769530200,
+  "duration": 3153742100,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.checkoutWithAnyAddress()"
 });
 formatter.result({
-  "duration": 9086210200,
+  "duration": 7761033900,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.finishTheOrder()"
 });
 formatter.result({
-  "duration": 6538690600,
+  "duration": 5170055500,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.heShouldSeeASuccessMessage()"
 });
 formatter.result({
-  "duration": 46567100,
+  "duration": 46231700,
   "status": "passed"
 });
 formatter.after({
-  "duration": 76200,
+  "duration": 103499,
   "status": "passed"
 });
 formatter.before({
-  "duration": 8008400,
+  "duration": 8628699,
   "status": "passed"
 });
 formatter.scenario({
@@ -162,7 +162,7 @@ formatter.match({
   "location": "MyStepdefs.userLoggedIntoThePortal()"
 });
 formatter.result({
-  "duration": 1143582500,
+  "duration": 644552899,
   "status": "passed"
 });
 formatter.match({
@@ -175,7 +175,7 @@ formatter.match({
   "location": "MyStepdefs.theAddInItemIntoTheBasket(String)"
 });
 formatter.result({
-  "duration": 3699480000,
+  "duration": 3208325100,
   "status": "passed"
 });
 formatter.match({
@@ -188,50 +188,50 @@ formatter.match({
   "location": "MyStepdefs.theAddInItemIntoTheBasket(String)"
 });
 formatter.result({
-  "duration": 3167318300,
+  "duration": 3176030500,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.goToCart()"
 });
 formatter.result({
-  "duration": 3248047700,
+  "duration": 3165484200,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.checkoutWithAnyAddress()"
 });
 formatter.result({
-  "duration": 7600287500,
+  "duration": 7607073601,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.finishTheOrder()"
 });
 formatter.result({
-  "duration": 5182652000,
+  "duration": 5312978100,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.takeAScreenShot()"
 });
 formatter.result({
-  "duration": 376000,
+  "duration": 68599,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.heShouldSeeASuccessMessage()"
 });
 formatter.result({
-  "duration": 42211300,
+  "duration": 78705001,
   "status": "passed"
 });
 formatter.after({
-  "duration": 91300,
+  "duration": 34299,
   "status": "passed"
 });
 formatter.before({
-  "duration": 7579800,
+  "duration": 21218801,
   "status": "passed"
 });
 formatter.scenario({
@@ -291,7 +291,7 @@ formatter.match({
   "location": "MyStepdefs.userLoggedIntoThePortal()"
 });
 formatter.result({
-  "duration": 557278500,
+  "duration": 844517699,
   "status": "passed"
 });
 formatter.match({
@@ -304,21 +304,21 @@ formatter.match({
   "location": "MyStepdefs.theAddInItemIntoTheBasket(String)"
 });
 formatter.result({
-  "duration": 3319543300,
+  "duration": 3373065201,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.goToCart()"
 });
 formatter.result({
-  "duration": 3139338000,
+  "duration": 3172772000,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.continueShopping()"
 });
 formatter.result({
-  "duration": 106732800,
+  "duration": 116243800,
   "status": "passed"
 });
 formatter.match({
@@ -331,43 +331,43 @@ formatter.match({
   "location": "MyStepdefs.theAddInItemIntoTheBasket(String)"
 });
 formatter.result({
-  "duration": 3020897400,
+  "duration": 3014688700,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.checkoutWithAnyAddress()"
 });
 formatter.result({
-  "duration": 7568635600,
+  "duration": 7832897000,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.finishTheOrder()"
 });
 formatter.result({
-  "duration": 5150069100,
+  "duration": 5208519200,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.takeAScreenShot()"
 });
 formatter.result({
-  "duration": 179400,
+  "duration": 507900,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.heShouldSeeASuccessMessage()"
 });
 formatter.result({
-  "duration": 49744200,
+  "duration": 46551300,
   "status": "passed"
 });
 formatter.after({
-  "duration": 34100,
+  "duration": 37300,
   "status": "passed"
 });
 formatter.before({
-  "duration": 7949900,
+  "duration": 8446000,
   "status": "passed"
 });
 formatter.scenario({
@@ -417,7 +417,7 @@ formatter.match({
   "location": "MyStepdefs.userLoggedIntoThePortal()"
 });
 formatter.result({
-  "duration": 647296800,
+  "duration": 625275101,
   "status": "passed"
 });
 formatter.match({
@@ -430,46 +430,46 @@ formatter.match({
   "location": "MyStepdefs.theAddInItemIntoTheBasketFromDetailPage(String)"
 });
 formatter.result({
-  "duration": 3709622900,
+  "duration": 3330411600,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.goToCart()"
 });
 formatter.result({
-  "duration": 3149988100,
+  "duration": 3213544400,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.checkoutWithAnyAddress()"
 });
 formatter.result({
-  "duration": 7511144400,
+  "duration": 7537114800,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.finishTheOrder()"
 });
 formatter.result({
-  "duration": 5135990300,
+  "duration": 5127071999,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.takeAScreenShot()"
 });
 formatter.result({
-  "duration": 58200,
+  "duration": 197599,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.heShouldSeeASuccessMessage()"
 });
 formatter.result({
-  "duration": 44254700,
+  "duration": 50935299,
   "status": "passed"
 });
 formatter.after({
-  "duration": 29500,
+  "duration": 31501,
   "status": "passed"
 });
 formatter.uri("Ecomm_app/ScenarioOutline.feature");
@@ -634,7 +634,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 6514300,
+  "duration": 11974500,
   "status": "passed"
 });
 formatter.scenario({
@@ -741,14 +741,14 @@ formatter.match({
   "location": "MyStepdefs.iNavigateToUrl(String)"
 });
 formatter.result({
-  "duration": 53612700,
+  "duration": 52883200,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.iClickOnUsername()"
 });
 formatter.result({
-  "duration": 91875500,
+  "duration": 75682700,
   "status": "passed"
 });
 formatter.match({
@@ -761,14 +761,14 @@ formatter.match({
   "location": "MyStepdefs.enterUsername(String)"
 });
 formatter.result({
-  "duration": 104020000,
+  "duration": 90496800,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.clickOnPassword()"
 });
 formatter.result({
-  "duration": 60532900,
+  "duration": 70185601,
   "status": "passed"
 });
 formatter.match({
@@ -781,14 +781,14 @@ formatter.match({
   "location": "MyStepdefs.enterPassword(String)"
 });
 formatter.result({
-  "duration": 102777200,
+  "duration": 83701899,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.iClickOnLogin()"
 });
 formatter.result({
-  "duration": 239909100,
+  "duration": 301126900,
   "status": "passed"
 });
 formatter.match({
@@ -801,7 +801,7 @@ formatter.match({
   "location": "MyStepdefs.sortTheItemsBy(String)"
 });
 formatter.result({
-  "duration": 160298200,
+  "duration": 1345519600,
   "status": "passed"
 });
 formatter.match({
@@ -814,14 +814,14 @@ formatter.match({
   "location": "MyStepdefs.theAddInItemIntoTheBasket(String)"
 });
 formatter.result({
-  "duration": 3218146600,
+  "duration": 3203222901,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.theItemIsSuccessfullyAddedToBasket()"
 });
 formatter.result({
-  "duration": 3209150900,
+  "duration": 3265534299,
   "status": "passed"
 });
 formatter.match({
@@ -842,29 +842,29 @@ formatter.match({
   "location": "MyStepdefs.checkoutWithAddress(String,String,String)"
 });
 formatter.result({
-  "duration": 7488265200,
+  "duration": 7588646501,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.finishTheOrder()"
 });
 formatter.result({
-  "duration": 5124078300,
+  "duration": 5198972700,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.heShouldSeeASuccessMessage()"
 });
 formatter.result({
-  "duration": 49234500,
+  "duration": 61016000,
   "status": "passed"
 });
 formatter.after({
-  "duration": 50000,
+  "duration": 37200,
   "status": "passed"
 });
 formatter.before({
-  "duration": 7837700,
+  "duration": 8062700,
   "status": "passed"
 });
 formatter.scenario({
@@ -971,14 +971,14 @@ formatter.match({
   "location": "MyStepdefs.iNavigateToUrl(String)"
 });
 formatter.result({
-  "duration": 72714300,
+  "duration": 100176801,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.iClickOnUsername()"
 });
 formatter.result({
-  "duration": 91923300,
+  "duration": 119448001,
   "status": "passed"
 });
 formatter.match({
@@ -991,14 +991,14 @@ formatter.match({
   "location": "MyStepdefs.enterUsername(String)"
 });
 formatter.result({
-  "duration": 114264000,
+  "duration": 137833999,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.clickOnPassword()"
 });
 formatter.result({
-  "duration": 64667800,
+  "duration": 86089800,
   "status": "passed"
 });
 formatter.match({
@@ -1011,14 +1011,14 @@ formatter.match({
   "location": "MyStepdefs.enterPassword(String)"
 });
 formatter.result({
-  "duration": 73467700,
+  "duration": 222220899,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.iClickOnLogin()"
 });
 formatter.result({
-  "duration": 70160500,
+  "duration": 445993000,
   "status": "passed"
 });
 formatter.match({
@@ -1031,8 +1031,8 @@ formatter.match({
   "location": "MyStepdefs.sortTheItemsBy(String)"
 });
 formatter.result({
-  "duration": 175433500,
-  "error_message": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"class name\",\"selector\":\"product_sort_container\"}\n  (Session info: chrome\u003d81.0.4044.92)\n  (Driver info: chromedriver\u003d81.0.4044.69 (6813546031a4bc83f717a2ef7cd4ac6ec1199132-refs/branch-heads/4044@{#776}),platform\u003dWindows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 17 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.0.0\u0027, revision: \u0027350cf60\u0027, time: \u00272016-10-13 10:48:57 -0700\u0027\nSystem info: host: \u0027LAPTOP-O5A8USHH\u0027, ip: \u0027192.168.1.246\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u002712.0.2\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{mobileEmulationEnabled\u003dfalse, timeouts\u003d{implicit\u003d0, pageLoad\u003d300000, script\u003d30000}, hasTouchScreen\u003dfalse, platform\u003dXP, acceptSslCerts\u003dfalse, goog:chromeOptions\u003d{debuggerAddress\u003dlocalhost:51444}, acceptInsecureCerts\u003dfalse, webStorageEnabled\u003dtrue, browserName\u003dchrome, takesScreenshot\u003dtrue, javascriptEnabled\u003dtrue, setWindowRect\u003dtrue, unexpectedAlertBehaviour\u003dignore, applicationCacheEnabled\u003dfalse, rotatable\u003dfalse, networkConnectionEnabled\u003dfalse, chrome\u003d{chromedriverVersion\u003d81.0.4044.69 (6813546031a4bc83f717a2ef7cd4ac6ec1199132-refs/branch-heads/4044@{#776}), userDataDir\u003dC:\\Users\\Anusha\\AppData\\Local\\Temp\\scoped_dir14976_1313477155}, takesHeapSnapshot\u003dtrue, pageLoadStrategy\u003dnormal, strictFileInteractability\u003dfalse, databaseEnabled\u003dfalse, handlesAlerts\u003dtrue, version\u003d81.0.4044.92, browserConnectionEnabled\u003dfalse, proxy\u003d{}, nativeEvents\u003dtrue, locationContextEnabled\u003dtrue, cssSelectorsEnabled\u003dtrue, webauthn:virtualAuthenticators\u003dtrue}]\nSession ID: f963b85d85ccd2741b782196530f8bfd\n*** Element info: {Using\u003dclass name, value\u003dproduct_sort_container}\r\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)\r\n\tat java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:216)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:168)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:635)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByClassName(RemoteWebDriver.java:457)\r\n\tat org.openqa.selenium.By$ByClassName.findElement(By.java:391)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:360)\r\n\tat Ecomm_app.MyStepdefs.sortTheItemsBy(MyStepdefs.java:176)\r\n\tat ✽.And sort the items by \"Name (Z to A)\"(Ecomm_app/ScenarioOutline.feature:15)\r\n",
+  "duration": 63055800,
+  "error_message": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"class name\",\"selector\":\"product_sort_container\"}\n  (Session info: chrome\u003d81.0.4044.92)\n  (Driver info: chromedriver\u003d81.0.4044.69 (6813546031a4bc83f717a2ef7cd4ac6ec1199132-refs/branch-heads/4044@{#776}),platform\u003dWindows NT 10.0.18362 x86_64) (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 27 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.0.0\u0027, revision: \u0027350cf60\u0027, time: \u00272016-10-13 10:48:57 -0700\u0027\nSystem info: host: \u0027LAPTOP-O5A8USHH\u0027, ip: \u0027192.168.1.246\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u002712.0.2\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities [{mobileEmulationEnabled\u003dfalse, timeouts\u003d{implicit\u003d0, pageLoad\u003d300000, script\u003d30000}, hasTouchScreen\u003dfalse, platform\u003dXP, acceptSslCerts\u003dfalse, goog:chromeOptions\u003d{debuggerAddress\u003dlocalhost:52996}, acceptInsecureCerts\u003dfalse, webStorageEnabled\u003dtrue, browserName\u003dchrome, takesScreenshot\u003dtrue, javascriptEnabled\u003dtrue, setWindowRect\u003dtrue, unexpectedAlertBehaviour\u003dignore, applicationCacheEnabled\u003dfalse, rotatable\u003dfalse, networkConnectionEnabled\u003dfalse, chrome\u003d{chromedriverVersion\u003d81.0.4044.69 (6813546031a4bc83f717a2ef7cd4ac6ec1199132-refs/branch-heads/4044@{#776}), userDataDir\u003dC:\\Users\\Anusha\\AppData\\Local\\Temp\\scoped_dir12936_135813165}, takesHeapSnapshot\u003dtrue, pageLoadStrategy\u003dnormal, strictFileInteractability\u003dfalse, databaseEnabled\u003dfalse, handlesAlerts\u003dtrue, version\u003d81.0.4044.92, browserConnectionEnabled\u003dfalse, proxy\u003d{}, nativeEvents\u003dtrue, locationContextEnabled\u003dtrue, cssSelectorsEnabled\u003dtrue, webauthn:virtualAuthenticators\u003dtrue}]\nSession ID: 3d8934cc18916d6d47db478819bf3fd7\n*** Element info: {Using\u003dclass name, value\u003dproduct_sort_container}\r\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)\r\n\tat java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:216)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:168)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:635)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByClassName(RemoteWebDriver.java:457)\r\n\tat org.openqa.selenium.By$ByClassName.findElement(By.java:391)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:360)\r\n\tat Ecomm_app.MyStepdefs.sortTheItemsBy(MyStepdefs.java:180)\r\n\tat ✽.And sort the items by \"Name (Z to A)\"(Ecomm_app/ScenarioOutline.feature:15)\r\n",
   "status": "failed"
 });
 formatter.match({
@@ -1088,11 +1088,11 @@ formatter.result({
 formatter.write("Please inform this bug to john");
 formatter.embedding("image/png", "embedded0.png");
 formatter.after({
-  "duration": 527408100,
+  "duration": 430786300,
   "status": "passed"
 });
 formatter.before({
-  "duration": 4832500,
+  "duration": 7368300,
   "status": "passed"
 });
 formatter.scenario({
@@ -1199,14 +1199,14 @@ formatter.match({
   "location": "MyStepdefs.iNavigateToUrl(String)"
 });
 formatter.result({
-  "duration": 59119600,
+  "duration": 72984099,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.iClickOnUsername()"
 });
 formatter.result({
-  "duration": 62514700,
+  "duration": 95766101,
   "status": "passed"
 });
 formatter.match({
@@ -1219,14 +1219,14 @@ formatter.match({
   "location": "MyStepdefs.enterUsername(String)"
 });
 formatter.result({
-  "duration": 90779400,
+  "duration": 248053000,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.clickOnPassword()"
 });
 formatter.result({
-  "duration": 54574600,
+  "duration": 99671101,
   "status": "passed"
 });
 formatter.match({
@@ -1239,14 +1239,14 @@ formatter.match({
   "location": "MyStepdefs.enterPassword(String)"
 });
 formatter.result({
-  "duration": 120763600,
+  "duration": 111887199,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.iClickOnLogin()"
 });
 formatter.result({
-  "duration": 272715200,
+  "duration": 307315500,
   "status": "passed"
 });
 formatter.match({
@@ -1259,7 +1259,7 @@ formatter.match({
   "location": "MyStepdefs.sortTheItemsBy(String)"
 });
 formatter.result({
-  "duration": 192610400,
+  "duration": 170465201,
   "status": "passed"
 });
 formatter.match({
@@ -1272,14 +1272,14 @@ formatter.match({
   "location": "MyStepdefs.theAddInItemIntoTheBasket(String)"
 });
 formatter.result({
-  "duration": 3231976800,
+  "duration": 3206096400,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.theItemIsSuccessfullyAddedToBasket()"
 });
 formatter.result({
-  "duration": 3189792200,
+  "duration": 3568765300,
   "status": "passed"
 });
 formatter.match({
@@ -1300,29 +1300,29 @@ formatter.match({
   "location": "MyStepdefs.checkoutWithAddress(String,String,String)"
 });
 formatter.result({
-  "duration": 7469596000,
+  "duration": 7831896100,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.finishTheOrder()"
 });
 formatter.result({
-  "duration": 5140782400,
+  "duration": 5497988100,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.heShouldSeeASuccessMessage()"
 });
 formatter.result({
-  "duration": 42934500,
+  "duration": 249304200,
   "status": "passed"
 });
 formatter.after({
-  "duration": 29700,
+  "duration": 41500,
   "status": "passed"
 });
 formatter.before({
-  "duration": 6035400,
+  "duration": 12163300,
   "status": "passed"
 });
 formatter.scenario({
@@ -1429,14 +1429,14 @@ formatter.match({
   "location": "MyStepdefs.iNavigateToUrl(String)"
 });
 formatter.result({
-  "duration": 56016700,
+  "duration": 136997101,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.iClickOnUsername()"
 });
 formatter.result({
-  "duration": 68080200,
+  "duration": 122225600,
   "status": "passed"
 });
 formatter.match({
@@ -1449,14 +1449,14 @@ formatter.match({
   "location": "MyStepdefs.enterUsername(String)"
 });
 formatter.result({
-  "duration": 195031200,
+  "duration": 183993000,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.clickOnPassword()"
 });
 formatter.result({
-  "duration": 72415000,
+  "duration": 66317101,
   "status": "passed"
 });
 formatter.match({
@@ -1469,14 +1469,14 @@ formatter.match({
   "location": "MyStepdefs.enterPassword(String)"
 });
 formatter.result({
-  "duration": 93979100,
+  "duration": 166262701,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.iClickOnLogin()"
 });
 formatter.result({
-  "duration": 5230114500,
+  "duration": 5402841201,
   "status": "passed"
 });
 formatter.match({
@@ -1489,7 +1489,7 @@ formatter.match({
   "location": "MyStepdefs.sortTheItemsBy(String)"
 });
 formatter.result({
-  "duration": 113733300,
+  "duration": 113832501,
   "status": "passed"
 });
 formatter.match({
@@ -1502,14 +1502,14 @@ formatter.match({
   "location": "MyStepdefs.theAddInItemIntoTheBasket(String)"
 });
 formatter.result({
-  "duration": 3270933000,
+  "duration": 3213085599,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.theItemIsSuccessfullyAddedToBasket()"
 });
 formatter.result({
-  "duration": 3214710000,
+  "duration": 3268067700,
   "status": "passed"
 });
 formatter.match({
@@ -1530,25 +1530,25 @@ formatter.match({
   "location": "MyStepdefs.checkoutWithAddress(String,String,String)"
 });
 formatter.result({
-  "duration": 7492334300,
+  "duration": 7823403300,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.finishTheOrder()"
 });
 formatter.result({
-  "duration": 5143042400,
+  "duration": 5196137299,
   "status": "passed"
 });
 formatter.match({
   "location": "MyStepdefs.heShouldSeeASuccessMessage()"
 });
 formatter.result({
-  "duration": 43201100,
+  "duration": 88529100,
   "status": "passed"
 });
 formatter.after({
-  "duration": 59400,
+  "duration": 27301,
   "status": "passed"
 });
 });
